@@ -1,0 +1,7 @@
+#Configuration file
+db.txt
+
+#For macOS
+.DS_Store
+**/.DS_Store
+.DS_Store?
